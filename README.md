@@ -102,8 +102,9 @@ This tool provides:
 ---
 
 ## 📸 Sample Dashboard
-
-
+![dashboard](./screenshot/Forensic%20Artifact%20Analyzer_page-0001.jpg)
+![dashboard](./screenshot/Forensic%20Artifact%20Analyzer_page-0002.jpg)
+![dashboard](./screenshot/Forensic%20Artifact%20Analyzer_page-0003.jpg)
 
 
 ## 📜 License
